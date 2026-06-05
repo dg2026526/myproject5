@@ -8,7 +8,7 @@ b = box(size = vec(1,101,0.5),pos = vec(96,0,1),color = color.blue)
 b = box(size = vec(192,7,2), pos = vec(0,54,0), color = color.blue)
 b = box (size = vec(6,6,2), pos = vec (92,54,0.2),texture = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOLNEc_KuJVkSe4EEiqqv-nbYSQjA8PIHolQ&s") 
 b = box (size = vec(6,6,2),  pos = vec (84,54,0.2))        
-b = box (size = vec(6,6,2), pos = vec (76,54,0.2),texture = "https://w7.pngwing.com/pngs/654/152/png-transparent-line-font-line-tin-art-line.png")
+b = box (size = vec(6,6,2), pos = vec (76,54,0.2))
 b = box (size = vec(6,6,2), pos = vec (76,54,0.2))
 b = box(color =  color.black ,make_trail = True, pos = vec(0,0,1))
  
